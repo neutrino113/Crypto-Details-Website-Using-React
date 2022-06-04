@@ -1,4 +1,4 @@
-# [COINED](https://coinedd.netlify.app/) - Crytocurrency Educational & News Website
+# COINED - Crytocurrency Educational & News Website
 
 
 ## What is coined ?
